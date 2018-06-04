@@ -1,10 +1,11 @@
-## MNIST-tensorflow : 
+### MNIST-tensorflow : 
+[MNIST-tensorflow ](https://github.com/yannistannier/deeplearning/blob/master/MNIST-tensorflow.ipynb)
 DNN 5 hiddens layers, 100 neurons, activation function ELU
 
-- Comparaison results with : 
+#### Comparaison results with : 
 DNN, DNN + batch normalisation, DNN + batch normalisation + dropout
 
-- Transfer learning :
+#### Transfer learning :
 
 Training DNN with label 0-4 and save model.
 
