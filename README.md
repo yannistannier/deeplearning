@@ -1,5 +1,6 @@
-### MNIST-tensorflow : 
+## MNIST-tensorflow : 
 [MNIST-tensorflow ](https://github.com/yannistannier/deeplearning/blob/master/MNIST-tensorflow.ipynb)
+
 DNN 5 hiddens layers, 100 neurons, activation function ELU
 
 #### Comparaison results with : 
