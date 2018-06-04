@@ -1,10 +1,10 @@
 ### MNIST-tensorflow : 
 DNN 5 hiddens layers, 100 neurons, activation function ELU
 
-##### Comparaison results with : 
+#### Comparaison results with : 
 DNN, DNN + batch normalisation, DNN + batch normalisation + dropout
 
-##### Transfer learning :
+#### Transfer learning :
 
 Training DNP with label 0-4 and save model.
 
