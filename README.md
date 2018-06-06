@@ -1,4 +1,5 @@
 ## MNIST-tensorflow : 
+
 [MNIST-tensorflow ](https://github.com/yannistannier/deeplearning/blob/master/MNIST-tensorflow.ipynb)
 
 DNN 5 hiddens layers, 100 neurons, activation function ELU
@@ -14,3 +15,10 @@ create a new DNN that reuses all the pretrained hidden layers of the previous mo
 Train new model on label 5-9 on small dataset (100 images by class)
 
 Comparaison time with and without cache on freezen layers 
+
+
+## MNIST-predict-same-number : 
+
+#### Pretraining on an auxiliary task : 
+
+build a DNN that compares two MNIST digit images and predicts whether they represent the same digit or not
