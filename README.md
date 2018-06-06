@@ -19,6 +19,8 @@ Comparaison time with and without cache on freezen layers
 
 ## MNIST-predict-same-number : 
 
+[MNIST-predict-same-number](https://github.com/yannistannier/deeplearning/blob/master/MNIST-predict-same-number.ipynb)
+
 #### Pretraining on an auxiliary task : 
 
 build a DNN that compares two MNIST digit images and predicts whether they represent the same digit or not
